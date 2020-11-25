@@ -1,7 +1,7 @@
 # Hindi-tokenization-stemmerTokenizer for Hindi
 
 This package tends to implement a Tokenizer and a stemmer for Hindi language.
-
+This is to be used:
 To import the package,
 ```python
 from HindiTokenizer import Tokenizer
